@@ -1,25 +1,8 @@
 ### Olá! Eu sou o João Paulo Santos 😁
 
-<div style="display: inline-block">
-  <a href="https://www.linkedin.com/in/dev-joaopaulosantos/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="Linkedin"
-    />
-  </a>
-   <a href="https://www.linkedin.com/in/dev-joaopaulosantos/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
-      alt="Meu site"
-    />
-  </a>
-  <a href="https://www.instagram.com/joao_paul0_s/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-    />
-  </a>
-</div>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-joaopaulosantos/)
+[![Meu Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_paul0_s/)
 
 ![João Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-joaopaulosantos&show_icons=true&theme=tokyonight)
 
