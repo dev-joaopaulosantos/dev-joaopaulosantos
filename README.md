@@ -7,16 +7,16 @@
       alt="Linkedin"
     />
   </a>
+   <a href="https://www.linkedin.com/in/dev-joaopaulosantos/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
+      alt="Meu site"
+    />
+  </a>
   <a href="https://www.instagram.com/joao_paul0_s/" target="_blank">
     <img
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       alt="Instagram"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/dev-joaopaulosantos/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
-      alt="Meu site"
     />
   </a>
 </div>
