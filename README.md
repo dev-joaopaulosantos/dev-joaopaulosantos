@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá! Eu sou o João Paulo Santos 😁</h1>
+  <h1>Hello. I'm João Paulo Santos 👋 </h1>
   <br/>
   <div >
     <a href="https://www.linkedin.com/in/dev-joaopaulosantos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -13,15 +13,14 @@
   <img 
     width="49%" 
     height="195px" 
-    src="https://github-readme-stats.vercel.app/api?username=dev-joaopaulosantos&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" 
-    alt="João Paulo Santos github stats" /> 
+    src="https://github-readme-stats.vercel.app/api?username=dev-joaopaulosantos&show_icons=true&count_private=true&hide_border=true&theme=github_dark" /> 
   <img 
     width="41%" 
     height="195px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-joaopaulosantos&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-joaopaulosantos&layout=compact&hide_border=true&theme=github_dark" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-joaopaulosantos&bg_color=050505&color=8d6db6&line=38bdae&point=638fda&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-joaopaulosantos&bg_color=0d1117&color=4c8eda&line=38bdae&point=194ea0&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Tecnologias mais usadas
 
