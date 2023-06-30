@@ -20,7 +20,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-joaopaulosantos&layout=compact&hide_border=true&theme=github_dark" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-joaopaulosantos&bg_color=0d1117&color=4c8eda&line=38bdae&point=194ea0&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-joaopaulosantos&bg_color=0d1117&color=4c8eda&line=FFFFFF&point=194ea0&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Tecnologias mais usadas
 
