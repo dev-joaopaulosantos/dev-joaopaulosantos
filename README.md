@@ -6,6 +6,8 @@
 
 ![João Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-joaopaulosantos&show_icons=true&theme=tokyonight)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-joaopaulosantos&bg_color=050505&color=8d6db6&line=38bdae&point=638fda&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Tecnologias mais usadas
 
 <div style="display: inline-block"></br>
