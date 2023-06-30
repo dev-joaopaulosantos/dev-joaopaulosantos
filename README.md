@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hello. I'm João Paulo Santos 👋 </h1>
   <br/>
-  <div style="background-color: red; display: flex; justify-content: space-around;">
+  <div >
     <a href="https://www.linkedin.com/in/dev-joaopaulosantos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://dev-joaopaulo.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
     <a href="https://www.instagram.com/joao_paul0_s/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -26,7 +26,8 @@
 
 <h3>Main Technologies</h3>
 
-<div style="display: inline-block"></br>
+<div style="display: inline-block">
+</br>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -36,7 +37,8 @@
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</div></br>
+</div>
+</br>
 
 <p>I'm passionate about technology, I'm always looking for new learning opportunities.</p>
 
