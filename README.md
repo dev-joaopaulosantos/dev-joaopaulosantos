@@ -20,9 +20,9 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-joaopaulosantos&layout=compact&hide_border=true&theme=github_dark" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-joaopaulosantos&bg_color=0d1117&color=4c8eda&line=FFFFFF&point=194ea0&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-joaopaulosantos&amp;bg_color=0d1117&amp;color=4c8eda&amp;line=FFFFFF&amp;point=194ea0&amp;area=false&amp;hide_border=true" alt="Ashutosh&#39;s github activity graph"></a>
 
-## Tecnologias mais usadas
+<h3>Main Technologies</h3>
 
 <div style="display: inline-block"></br>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -32,4 +32,4 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div></br>
 
-<p>Apaixonado por tecnologia, sempre em busca de novas oportunidades de apredizado.</p>
+<p>I'm passionate about technology, I'm always looking for new learning opportunities.</p>
